@@ -1,0 +1,14 @@
+body {
+  background-color: #f8f9fa;
+}
+.custom-form {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.custom-form h2 {
+  margin-bottom: 20px;
+}
